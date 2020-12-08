@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Android app development
-- 👯 I’m looking to collaborate with awesome developers right there to collab and build  cool stuff
+### - 🌱 I’m currently learning Android app development
+### - 👯 I’m looking to collaborate with awesome developers right there to collab and build  cool stuff
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: www.linkedin.com/in/Sharath-majjigi
+### - 📫 How to reach me: www.linkedin.com/in/Sharath-majjigi
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Swimmer,programmer,and more 😉
--->
+### - ⚡ Fun fact: Swimmer,programmer,and more 😉
+### --> 📩 email : sharathholmes143@gmail.com
