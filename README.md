@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm sharath a CSE undergrad 👨‍💻
 
 <!--
 **Sharath-majjigi/Sharath-majjigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 ### - 📫 How to reach me: www.linkedin.com/in/Sharath-majjigi
 - 😄 Pronouns: ...
 ### - ⚡ Fun fact: Swimmer,programmer,and more 😉..
---> 📩 email : sharathholmes143@gmail.com
+### --> 📩 email : sharathholmes143@gmail.com
