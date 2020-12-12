@@ -1,4 +1,8 @@
-### Hi there I'm sharath a CSE undergrad 👨‍💻
+### Sharath
+
+### ~19
+
+### Cse undergrad
 
 <!--
 **Sharath-majjigi/Sharath-majjigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
