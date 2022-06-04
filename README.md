@@ -4,7 +4,7 @@
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 I am a tech enthusiast who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or
 applications from different industries. I have an academic background in B.tech in Computer science and engineering and strong
-technical skills in app development. 
+technical skills in app development and backend web Development. 
 
 <h4>I’m looking to collaborate on Open-Source Projects<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
