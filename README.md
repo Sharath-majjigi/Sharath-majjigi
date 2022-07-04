@@ -26,7 +26,7 @@ technical skills in app development and backend web Development.
  
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
  [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) 
- [![Spring Badge](https://img.shields.io/badge/-Spring-007396?style=for-the-badge&labelColor=black&logo=spring&logoColor=007396)](#)
+ [![Spring Badge](https://img.shields.io/badge/-Springboot-007396?style=for-the-badge&labelColor=black&logo=springboot&logoColor=007396)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=61DAFB)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
@@ -34,7 +34,7 @@ technical skills in app development and backend web Development.
 [![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
 [![Node-js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#) 
+[![VsCode Badge](https://img.shields.io/badge/VsCode-20232A?style=for-the-badge&logo=VsCode&logoColor=61DAFB)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
 [![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
 [![Amazon aws Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
