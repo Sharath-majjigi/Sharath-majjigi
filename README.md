@@ -26,6 +26,7 @@ technical skills in app development and backend web Development.
  
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
  [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) 
+ [![Spring Badge](https://img.shields.io/badge/-Spring-007396?style=for-the-badge&labelColor=black&logo=spring&logoColor=007396)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=61DAFB)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
