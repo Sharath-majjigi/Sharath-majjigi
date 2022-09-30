@@ -2,9 +2,11 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
+I worked as a Backend developer Intern and SDE Intern.
+I have an academic background in B.tech in Computer science and engineering and strong
+technical skills in backend web Development. 
 I am a tech enthusiast who enjoys connecting the dots be it ideas from different disciplines, people from different teams, or
-applications from different industries. I have an academic background in B.tech in Computer science and engineering and strong
-technical skills in app development and backend web Development. 
+applications from different industries.
 
 <h4>I’m looking to collaborate on Open-Source Projects<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
@@ -13,10 +15,6 @@ technical skills in app development and backend web Development.
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sharath-majjigi/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathholmes143@gmail.com) 
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MajjigiSharath)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharathmajjigi)
-              [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/majjigi20)
-
 <hr>
  
   
@@ -24,7 +22,6 @@ technical skills in app development and backend web Development.
 <!--  TOP Technologies That I use Daily  -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
  
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
  [![Spring Badge](https://img.shields.io/badge/-Springboot-007396?style=for-the-badge&labelColor=black&logo=springboot&logoColor=007396)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 =[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
@@ -33,6 +30,7 @@ technical skills in app development and backend web Development.
 [![VsCode Badge](https://img.shields.io/badge/VsCode-20232A?style=for-the-badge&logo=VsCode&logoColor=61DAFB)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
 [![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+[![Postgresql Badge](https://img.shields.io/badge/POSTGRESQL-20232A?style=for-the-badge&logo=POSTGRESQL&logoColor=61DAFB)](#) 
 [![Amazon aws Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
 [![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
