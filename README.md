@@ -15,27 +15,11 @@ applications from different industries.
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sharath-majjigi/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathholmes143@gmail.com) 
-<hr>
  
   
  <!-- START NEW SECTION -->
 <!--  TOP Technologies That I use Daily  -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
- 
- [![Spring Badge](https://img.shields.io/badge/-Springboot-007396?style=for-the-badge&labelColor=black&logo=springboot&logoColor=007396)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
-=[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
-[![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
-[![VsCode Badge](https://img.shields.io/badge/VsCode-20232A?style=for-the-badge&logo=VsCode&logoColor=61DAFB)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
-[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
-[![Postgresql Badge](https://img.shields.io/badge/POSTGRESQL-20232A?style=for-the-badge&logo=POSTGRESQL&logoColor=61DAFB)](#) 
-[![Amazon aws Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
-[![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
-[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
- <hr>
+
  
  
 <!-- START NEW SECTION -->
