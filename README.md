@@ -1,8 +1,10 @@
-### Hi there 👋  I'm Sharath a 2023 Computer Science Graduate❤ 
+### Hi there 👋  I'm Sharath a passionate Backend engineeer ❤ 
 <img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I worked as a Backend developer Intern and SDE Intern.
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a> 🙋‍♂️ About me </h3>
+Currently Scaling payments at <a href="https://vance.tech"> Vance </a>
+
+
 I have an academic background in B.tech in Computer science and engineering and strong
 technical skills in backend web Development. 
 I am a tech enthusiast who enjoys connecting the dots be it ideas from different disciplines, people from different teams, or
