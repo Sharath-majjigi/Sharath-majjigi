@@ -1,14 +1,13 @@
-### Hi there 👋  I'm Sharath a passionate Backend engineeer ❤ 
+### hey, i'm sharath! I enjoy problem-solving more than building fancy engineering stuff. ❤ 
 <img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a> 🙋‍♂️ About me </h3>
-Currently Scaling payments at <a href="https://vance.tech"> Vance </a>
+ex - [contract engineer @ <a href="https://mercor.com"> Mercor </a>, founding engineer at <a href="https://shoffr.in"> Shoffr </a> , Backend @<a href="https://vance.tech"> Vance </a>,  <a href="https://semut.io"> Semut </a>] 
 
+<br>
+<br>
 
-I have an academic background in B.tech in Computer science and engineering and strong
-technical skills in backend web Development. 
-I am a tech enthusiast who enjoys connecting the dots be it ideas from different disciplines, people from different teams, or
-applications from different industries.
+My expertise is Backend, and I have built systems that actually scale.
 
 <h4>I’m looking to collaborate on Open-Source Projects<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
